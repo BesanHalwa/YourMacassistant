@@ -15,5 +15,5 @@ Mac based assistant June can perform following tasks
   
  To start your Mac Assistant
  ```
- python app.py
+ python final_app/app.py
  ```
